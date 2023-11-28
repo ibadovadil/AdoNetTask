@@ -1,0 +1,5 @@
+C:\Users\Adil\Desktop\AdoNetTask\obj\Debug\net6.0\AdoNetTask.csproj.AssemblyReference.cache
+C:\Users\Adil\Desktop\AdoNetTask\obj\Debug\net6.0\AdoNetTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\AdoNetTask\obj\Debug\net6.0\AdoNetTask.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\AdoNetTask\obj\Debug\net6.0\AdoNetTask.AssemblyInfo.cs
+C:\Users\Adil\Desktop\AdoNetTask\obj\Debug\net6.0\AdoNetTask.csproj.CoreCompileInputs.cache
